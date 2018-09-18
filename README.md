@@ -8,3 +8,4 @@ archive.ics.uci.edu/ml/datasets.html and look at "Breast_cancer_wisconsin.data d
 KNN classifier was proved to be efficient during the classification over the input data with over 97% accuracy.
 SVM classifier could not achieve efficient results as compared to the KNN classifier.
 
+The code is well commented and self explanatory, incase of further doubts feel free to contact me at tejastk.reddy@gmail.com
